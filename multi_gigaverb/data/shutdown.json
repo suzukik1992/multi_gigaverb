@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "shutdown",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"shutdowntime" : [ "21:43" ],
+					"switch" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

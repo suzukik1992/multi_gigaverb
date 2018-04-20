@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "audiostatus",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Driver" : [ "Core", "Audio" ],
+					"Input_Device" : [ "Built-in", "Output" ],
+					"Output_Device" : [ "Built-in", "Microphone" ],
+					"Sampling_Rate" : [ 48000 ],
+					"Signal_Vector_Size" : [ 512 ],
+					"I/O_Vector_Size" : [ 512 ],
+					"Scheduler_in_OverDrive" : [ "On" ],
+					"takeover" : [ "On" ],
+					"output_text" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

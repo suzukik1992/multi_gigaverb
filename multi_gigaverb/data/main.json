@@ -1,0 +1,36 @@
+{
+	"pattrstorage" : 	{
+		"name" : "main",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"node_offset_y" : [ -0.5 ],
+					"node_offset_x" : [ -0.5 ],
+					"node_degree" : [ 0 ],
+					"node_scale" : [ 1.299515 ],
+					"normalize_position" : [ 1 ],
+					"Woofer_Num" : [ 1 ],
+					"voices" : [ 5 ],
+					"gigaverb_size" : [ 172.483465 ],
+					"gigaverb_decay" : [ 9.517323 ],
+					"gigaverb_spread" : [ 100.0 ],
+					"gigaverb_bandwidth" : [ 0.15748 ],
+					"gigaverb_damping" : [ 0.418898 ],
+					"gigaverb_early" : [ 0.448819 ],
+					"gigaverb_tail" : [ 0.496063 ],
+					"gigaverb_delay" : [ 1322.834646 ],
+					"gigaverb_gain" : [ 0.0 ],
+					"in_scale" : [ 1.004724 ],
+					"node_offset_y[1]" : [ 0.0 ],
+					"node_offset_x[1]" : [ 0.0 ],
+					"gigaverb_highpass" : [ 299.653543 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
